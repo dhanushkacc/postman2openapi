@@ -19,6 +19,7 @@ A tool that converts Postman collections into OpenAPI specifications. This proje
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [NGINX (Optional)](#nginx-optional)
 
 ## Overview
 
